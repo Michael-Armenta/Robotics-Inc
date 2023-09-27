@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Radcliffe Standall",
+    "age": 81,
+    "email": "rstandall0@pinterest.com",
+    "specialty": "Operator",
+    "cost": 431.26,
+    "image": "/images/Radcliffe-Standall.png",
+    "available": true
+  },
+  {
+    "name": "Nealy Reeves",
+    "age": 75,
+    "email": "nreeves1@umich.edu",
+    "specialty": "Senior Financial Analyst",
+    "cost": 753.73,
+    "image": "/images/Nealy-Reeves.png",
+    "available": false
+  },
+  {
+    "name": "Roselia Baudasso",
+    "age": 98,
+    "email": "rbaudasso2@disqus.com",
+    "specialty": "Recruiting Manager",
+    "cost": 302.81,
+    "image": "/images/Roselia-Baudasso.png",
+    "available": false
+  },
+  {
+    "name": "Brook Wattingham",
+    "age": 57,
+    "email": "bwattingham3@jugem.jp",
+    "specialty": "Senior Financial Analyst",
+    "cost": 413.82,
+    "image": "/images/Brook-Wattingham.png",
+    "available": true
+  },
+  {
+    "name": "Malissa Nutting",
+    "age": 81,
+    "email": "malissan@mapquest.com",
+    "specialty": "Assistant Media Planner",
+    "cost": 621.19,
+    "image": "/images/Malissa-Nutting.png",
+    "available": true
+  },
+  {
+    "name": "Kippy McArthur",
+    "age": 26,
+    "email": "kmcarthur5@imgur.com",
+    "specialty": "Senior Quality Engineer",
+    "cost": 378.49,
+    "image": "/images/Kippy-McArthur.png",
+    "available": true
+  },
+  {
+    "name": "Elita Duggan",
+    "age": 29,
+    "email": "eduggan6@ehow.com",
+    "specialty": "Senior Quality Engineer",
+    "cost": 617.5,
+    "image": "/images/Elita-Duggan.png",
+    "available": false
+  },
+  {
+    "name": "Humberto Chinnick",
+    "age": 70,
+    "email": "hchinnick7@thetimes.co.uk",
+    "specialty": "Speech Pathologist",
+    "cost": 377.66,
+    "image": "/images/Humberto-Chinnick.png",
+    "available": false
+  },
+  {
+    "name": "Gerda Beuscher",
+    "age": 93,
+    "email": "gbeuscher8@cmu.edu",
+    "specialty": "Senior Developer",
+    "cost": 323.51,
+    "image": "/images/Gerda-Beuscher.png",
+    "available": false
+  },
+  {
+    "name": "Morganne Baterip",
+    "age": 47,
+    "email": "mbaterip9@wiley.com",
+    "specialty": "Programmer Analyst IV",
+    "cost": 402.43,
+    "image": "/images/Morganne-Baterip.png",
+    "available": true
+  },
+  {
+    "name": "Griselda Waterhous",
+    "age": 77,
+    "email": "gwaterhousa@nynews.com",
+    "specialty": "Recruiting Manager",
+    "cost": 553.29,
+    "image": "/images/Griselda-Waterhous.png",
+    "available": false
+  },
+  {
+    "name": "Jean Stappard",
+    "age": 58,
+    "email": "jstappardb@freewebs.com",
+    "specialty": "Senior Cost Accountant",
+    "cost": 640.45,
+    "image": "/images/Jean-Stappard.png",
+    "available": false
+  }
+]

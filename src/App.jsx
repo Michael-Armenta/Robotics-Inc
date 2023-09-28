@@ -12,8 +12,8 @@ function App() {
 
   // useEffect to first render the page with data
   useEffect(() => {
-    getData("/db/db.json").then((data) => {
-      // search for cats
+    getData("db/db.json").then((data) => {
+      // search for Robot workers
 
       //setting the fetched data
       setSeatchRobots(data);

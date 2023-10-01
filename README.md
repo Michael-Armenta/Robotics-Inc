@@ -9,8 +9,8 @@
 
 ## Hosting On: Vercel
 
-1. The link can be used to view the project on Vercel
-   https://robotics-inc.vercel.app/
+1. The following link can be used to view the project on Vercel
+2. https://robotics-inc.vercel.app/
 
 ## Copyright
 
